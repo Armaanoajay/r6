@@ -1,12 +1,12 @@
 body {
-  background-color: gray;
+  background-color: #d5d2cb;
 }
 .App {
   text-align: center;
   border: solid 1px;
   margin: 30px;
   padding: 10px;
-  background: linear-gradient(35deg, rgb(224, 0, 97), rgb(69, 183, 231));
+  background: linear-gradient(65deg, #1f7774, #a47347);
 }
 
 .App-logo {
